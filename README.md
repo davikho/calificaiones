@@ -37,7 +37,8 @@ Este proyecto ha sido desarrollado por **David Flores** desde **Ecuador** 🇪�
 
 ## 💻 Repositorio de Código
 
-Para más detalles sobre el código fuente, visite [GitHub](https://github.com).
+Para más detalles sobre el código fuente, visite [GitHub](https://github.com/davikho/calificaiones/).
+Para descargar el programa en formato zip, dale aquí [Comprimido](https://github.com/davikho/calificaiones/archive/refs/heads/main.zip).
 
 ---
 
